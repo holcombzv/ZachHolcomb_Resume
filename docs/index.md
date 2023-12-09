@@ -15,7 +15,7 @@ BYU-Idaho Undergraduate, Data Science
 
 ## Education
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelors Degree in Data Science
